@@ -1,7 +1,9 @@
 <h1 align="center">Hi There, I'm Anujith unni</h1>
 <h3 align="center">A passionate AI & ML learner from India</h3>
 
-<img align="right",alt="coding",width="400" src="https://media4.giphy.com/media/u2pmTWUi0MXjyrMaVj/200w.gif?cid=82a1493byw15r8fag4x8qz2laetf0mijdlqiq6wkqn9emiko&rid=200w.gif&ct=g">
+<img align="right",alt="coding",width="400" src="![image](https://user-images.githubusercontent.com/94459343/192327890-586404b0-881d-46f0-a501-e4a40c633b53.png)
+
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anujith-unni&label=Profile%20views&color=0e75b6&style=flat" alt="anujith-unni" /> </p>
 
